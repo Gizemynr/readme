@@ -1,5 +1,6 @@
 # I wrote code in [this website](https://markdown-editor.github.io/) 
 ## Output of the code:
+<img width="916" alt="outputOfCode" src="https://user-images.githubusercontent.com/93094921/174282726-3069c3ca-b6c4-4491-a1b5-480c2624a058.png">
 
 Code:
 >Header
