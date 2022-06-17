@@ -47,6 +47,6 @@ Enabled: check box (If it is selected, take the value of “true” in the user 
   <option value="SuperAdmin">SuperAdmin</option>
 </select>
 
-![image](https://user-images.githubusercontent.com/93094921/174283534-50ad7dbc-f3ed-4420-b93d-3dbd5dbd6eae.png)
-
-</pre>
+You can find screenshots of the code below:
+![image](https://user-images.githubusercontent.com/93094921/174284271-b98f487b-f383-4eb5-b7e3-ef7762636e80.png)
+![image](https://user-images.githubusercontent.com/93094921/174284210-b67ca1e0-5d54-410c-b961-660f6e79bf3b.png)
