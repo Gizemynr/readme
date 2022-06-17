@@ -1,5 +1,7 @@
-# readme
+# I wrote code in [this website](https://markdown-editor.github.io/) 
+## Output of the code:
 
+Code:
 >Header
 
 <button type="button"> +New User</button> &nbsp;&nbsp;&nbsp; <input type="checkbox"> Hide Disabled User &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <button type="button" color=red> Save User</button>
@@ -18,8 +20,15 @@
 | 2           | Test User       | tesuser@piworks.net      |true     |
 
 >Section cont.
-New User Form ( Place next to User Table)
+New User Form ( Placed next to User Table)
 This is new user form where the user can fill the above information and the system will save the user.
+Username: type: text fields
+Display name: type: text fields
+Phone: type: text field but only accept integer values
+Email: type: text fields
+User Roles: Dropdown list box (options: Guest, Admin, SuperAdmin)
+Enabled: check box (If it is selected, take the value of “true” in the user table “enabled” column.
+
 
 **Username:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <input type="text" size="50">
 
@@ -35,3 +44,5 @@ This is new user form where the user can fill the above information and the syst
   <option value="Admin">Admin</option>
   <option value="SuperAdmin">SuperAdmin</option>
 </select>
+
+
