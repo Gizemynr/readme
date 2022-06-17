@@ -1,6 +1,6 @@
 # I wrote code in [this website](https://markdown-editor.github.io/) 
 ## Output of the code:
-<img width="916" alt="outputOfCode" src="https://user-images.githubusercontent.com/93094921/174282726-3069c3ca-b6c4-4491-a1b5-480c2624a058.png">
+<img width="839" alt="Screen Shot 2022-06-17 at 13 57 56" src="https://user-images.githubusercontent.com/93094921/174285870-329342d7-6b94-4640-b44e-934887ea1985.png">
 
 Code:
 <pre>
@@ -48,5 +48,6 @@ Enabled: check box (If it is selected, take the value of “true” in the user 
 </select>
 
 You can find screenshots of the code below:
-![image](https://user-images.githubusercontent.com/93094921/174284271-b98f487b-f383-4eb5-b7e3-ef7762636e80.png)
-![image](https://user-images.githubusercontent.com/93094921/174284210-b67ca1e0-5d54-410c-b961-660f6e79bf3b.png)
+<img width="1493" alt="Screen Shot 2022-06-17 at 13 59 40" src="https://user-images.githubusercontent.com/93094921/174285930-80458ea9-2cea-4f29-bb77-82128526bfe3.png">
+
+<img width="1434" alt="Screen Shot 2022-06-17 at 13 59 51" src="https://user-images.githubusercontent.com/93094921/174285953-54cd4c0f-c118-4f93-8daf-16e5bd6553d2.png">
